@@ -1,0 +1,8 @@
+[package]
+name = "hello_debug"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+hello_debug = "0x0"

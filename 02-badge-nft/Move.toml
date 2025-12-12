@@ -1,0 +1,8 @@
+[package]
+name = "badge_nft"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+badge_nft = "0x0"

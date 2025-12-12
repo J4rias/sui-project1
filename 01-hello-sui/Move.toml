@@ -1,0 +1,8 @@
+[package]
+name = "hello_sui"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+hello_sui = "0x0"
